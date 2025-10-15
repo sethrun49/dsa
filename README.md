@@ -1,2 +1,2 @@
 # dsa
-Code for open source textbook, "Data Structures and Algotithms"
+Code for open source textbook, "Data Structures and Algorithms"
